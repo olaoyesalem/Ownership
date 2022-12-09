@@ -15,24 +15,9 @@
 A smart contract to show ownership of  functions
 
 ## Technologies
-* ethers.js
+
 * Solidity
-* Javascript
-* HTML
 * Remix-IDE
-
-## Setup 
-To run this project, install it locally using
-```
-$  npm install
-
-```
-
-## Launch 
-To Launch this project
-```
-$  npm run dev
-```
 
 ## Contributors
 
